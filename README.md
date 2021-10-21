@@ -1,5 +1,5 @@
 # COMP-002-1
-A Place For My Assignments
+A Place For My Assignments - Not Started, In Progress, Or Complete
 
 Week 1 
 
